@@ -3,5 +3,5 @@ GitBash é um terminal para otimizar o uso do git
 git clone --> clona o repositório para o local onde foi aberto o gitbash
 git status --> exibe a branch atual e se há alterações para enviar ou receber
 git add . --> Prepara todas as alterações para enviar para o git.
-git cimmit -m "mensagem" --> Cria as anotações para ser enviada junto ao commit
+git commit -m "mensagem" --> Cria as anotações para ser enviada junto ao commit
 git push main --> envia as alterações para o git na branch especificada(main).
